@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">WidgetsSpiner</string>
+    <string name="spnOs_prompt">OSを選択してください</string>
+    <string-array name="spnOs_items">
+        <item>Windows</item>
+        <item>Linux</item>
+        <item>MacOS</item>
+    </string-array>
+</resources>
